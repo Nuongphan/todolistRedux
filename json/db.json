@@ -1,0 +1,905 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Nương",
+      "lastName": "Phan",
+      "email": "nuongnunga8@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0376197106",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [],
+      "discount": 2340000,
+      "role": "Admin",
+      "avatar": "",
+      "status": false,
+      "dob": "2000-09-15",
+      "member": "Platinum"
+    },
+    {
+      "id": 2,
+      "firstName": "Nương Sama",
+      "lastName": "",
+      "email": "nuongnunga1@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0982596394",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [],
+      "discount": 2340000,
+      "role": "User",
+      "avatar": "",
+      "status": false,
+      "dob": "15/09/2000",
+      "member": "Sliver"
+    },
+    {
+      "id": 3,
+      "firstName": "Nương Hime",
+      "lastName": "",
+      "email": "nuongnunga2@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0335378998",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [
+        {
+          "id": "D1",
+          "name": "BROOKLYN REED DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110",
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-790684_800x.jpg?v=1664577826",
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-501748_800x.jpg?v=1664557252"
+          ],
+          "quantity": "3",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 55
+        },
+        {
+          "id": "D6",
+          "name": "MAUI REED DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-355229_160x.jpg?v=1650491067",
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-483108_160x.jpg?v=1659048717",
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-263606_160x.jpg?v=1659014324"
+          ],
+          "quantity": "2",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 10
+        },
+        {
+          "id": "D5",
+          "name": "PALO SANTO DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-784431_160x.jpg?v=1625061526",
+            "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-507715_160x.jpg?v=1681364812",
+            "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-824330_160x.jpg?v=1681311836"
+          ],
+          "quantity": "3",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 10
+        }
+      ],
+      "discount": 2340000,
+      "role": "User",
+      "avatar": "",
+      "status": true,
+      "dob": "15/09/2000",
+      "member": "Gold"
+    },
+    {
+      "id": 4,
+      "firstName": "Nương Nương ",
+      "lastName": "",
+      "email": "nuongnunga3@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0376197106",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [],
+      "discount": 2340000,
+      "role": "User",
+      "avatar": "",
+      "status": true,
+      "dob": "15/09/2000",
+      "member": "Diamond"
+    },
+    {
+      "id": 5,
+      "firstName": "Nương Hansamu",
+      "lastName": "",
+      "email": "nuongnunga4@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0376197106",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [],
+      "discount": 2340000,
+      "role": "User",
+      "avatar": "",
+      "status": true,
+      "dob": "15/09/2000",
+      "member": "Diamond"
+    },
+    {
+      "id": 6,
+      "firstName": "Nương kakkoi ",
+      "lastName": "",
+      "email": "nuongnunga5@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0376197106",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [],
+      "discount": 2340000,
+      "role": "User",
+      "avatar": "",
+      "status": true,
+      "dob": "15/09/2000",
+      "member": "Diamond"
+    },
+    {
+      "id": 7,
+      "firstName": "Nương Đại Ca",
+      "lastName": "",
+      "email": "nuongnunga6@gmail.com",
+      "password": "11111111",
+      "gender": "Male",
+      "phone": "0376197106",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "cart": [],
+      "discount": 2340000,
+      "role": "User",
+      "avatar": "",
+      "status": true,
+      "dob": "15/09/2000",
+      "member": "Diamond"
+    },
+    {
+      "id": 62,
+      "firstName": "Hoa",
+      "lastName": "Phan",
+      "email": "dtvt270601@gmail.com",
+      "password": "12345678",
+      "gender": "",
+      "cart": [],
+      "phone": "",
+      "address": "",
+      "discount": 0,
+      "role": "User",
+      "avatar": "",
+      "dob": "",
+      "status": true,
+      "member": "New Member"
+    },
+    {
+      "id": 25,
+      "firstName": "Hoa",
+      "lastName": "Phan",
+      "email": "vothihop2001@gmail.com",
+      "password": "11111111",
+      "gender": "",
+      "cart": [],
+      "phone": "0376197106",
+      "address": "336 Nguyễn Hữu Thọ, Cẩm Lệ, Đà Nẵng",
+      "discount": 0,
+      "role": "User",
+      "avatar": "",
+      "dob": "2001-10-31",
+      "status": true,
+      "member": "New Member"
+    },
+    {
+      "id": 20,
+      "firstName": "Huyền",
+      "lastName": "Nguyễn",
+      "email": "huyennguyen@gmail.com",
+      "password": "11111111",
+      "gender": "",
+      "cart": [],
+      "phone": "0376197106",
+      "address": "285 huy cận",
+      "discount": 0,
+      "role": "User",
+      "avatar": "",
+      "dob": "1990-01-01",
+      "status": true,
+      "member": "New Member"
+    }
+  ],
+  "proucts": [
+    {
+      "id": "C18",
+      "name": "WOODSMOKE MINIMALIST CANDLE",
+      "price": 2300000,
+      "description": "<p><audio class=\"audio-for-speech\"></audio></p>\n<div class=\"translate-tooltip-mtz blue sm-root translate hidden_translate\">\n<div class=\"header-wrapper\">\n<div class=\"header-controls\">&nbsp;</div>\n<div class=\"translate-icons\">\n<div class=\"translate_to_dropdown\"><button id=\"dropdownMenuButton1\" class=\"dropbtn dropdown-toggle\" type=\"button\" aria-expanded=\"false\"></button></div>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
+      "type": "Candles",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/woodsmoke-candle-brooklyn-candle-studio-209237_800x.jpg?v=1572403962",
+        "https://brooklyncandlestudio.com/cdn/shop/products/woodsmoke-candle-brooklyn-candle-studio-497229_800x.jpg?v=1632960239",
+        "https://brooklyncandlestudio.com/cdn/shop/products/woodsmoke-candle-brooklyn-candle-studio-434099_800x.jpg?v=1632960239"
+      ],
+      "quantity": 0,
+      "feedback": [],
+      "totalReview": 20,
+      "totalRating": 0,
+      "status": true,
+      "bestsellers": 15
+    },
+    {
+      "id": "M1",
+      "name": "SANTORINI ROOM MIST",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "ROOM MIST",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/santorini-room-mist-brooklyn-candle-studio-806814_800x.jpg?v=1619462044",
+        "https://brooklyncandlestudio.com/cdn/shop/products/santorini-room-mist-brooklyn-candle-studio-149327_800x.jpg?v=1655458442",
+        "https://brooklyncandlestudio.com/cdn/shop/products/santorini-room-mist-brooklyn-candle-studio-218994_800x.jpg?v=1655432506"
+      ],
+      "quantity": 7,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalReview": 20,
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 10
+    },
+    {
+      "id": "M2",
+      "name": "LOVE POTION ROOM MIST",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Room Mist",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/love-potion-room-mist-brooklyn-candle-studio-142684_800x.jpg?v=1619461979",
+        "https://brooklyncandlestudio.com/cdn/shop/products/love-potion-room-mist-brooklyn-candle-studio-216083_800x.jpg?v=1690331099",
+        "https://brooklyncandlestudio.com/cdn/shop/products/love-potion-room-mist-brooklyn-candle-studio-240239_800x.jpg?v=1690206662"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 15
+    },
+    {
+      "id": "M3",
+      "name": "SANTAL ROOM MIST",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Room Mist",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/santal-room-mist-brooklyn-candle-studio-763493_800x.jpg?v=1619462036",
+        "https://brooklyncandlestudio.com/cdn/shop/products/santal-room-mist-brooklyn-candle-studio-716713_800x.jpg?v=1660313661",
+        "https://brooklyncandlestudio.com/cdn/shop/products/santal-room-mist-brooklyn-candle-studio-998458_800x.jpg?v=1660311831"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 10
+    },
+    {
+      "id": "M4",
+      "name": "FERN + MOSS ROOM MIST",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Room Mist",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/fern-moss-room-mist-brooklyn-candle-studio-737150_160x.jpg?v=1619462166",
+        "https://brooklyncandlestudio.com/cdn/shop/products/fern-moss-room-mist-brooklyn-candle-studio-823442_160x.jpg?v=1666142882",
+        "https://brooklyncandlestudio.com/cdn/shop/products/fern-moss-room-mist-brooklyn-candle-studio-262185_160x.jpg?v=1666103909"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 20
+    },
+    {
+      "id": "M5",
+      "name": "SUNDAY MORNING ROOM MIST",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Room Mist",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/sunday-morning-room-mist-brooklyn-candle-studio-737638_160x.jpg?v=1619462052",
+        "https://brooklyncandlestudio.com/cdn/shop/products/sunday-morning-room-mist-brooklyn-candle-studio-609556_800x.jpg?v=1655458479",
+        "https://brooklyncandlestudio.com/cdn/shop/products/sunday-morning-room-mist-brooklyn-candle-studio-365048_800x.jpg?v=1655433640"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 17
+    },
+    {
+      "id": "M6",
+      "name": "PALO SANTO ROOM MIST",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Room Mist",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-room-mist-brooklyn-candle-studio-291182_160x.jpg?v=1619462019",
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-room-mist-brooklyn-candle-studio-277490_160x.jpg?v=1655458461",
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-room-mist-brooklyn-candle-studio-387964_160x.jpg?v=1655432533"
+      ],
+      "quantity": 5,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": "1833333"
+    },
+    {
+      "id": "D1",
+      "name": "BROOKLYN REED DIFFUSER",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Diffusers",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110",
+        "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-790684_800x.jpg?v=1664577826",
+        "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-501748_800x.jpg?v=1664557252"
+      ],
+      "quantity": 9,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": "5533"
+    },
+    {
+      "id": "D2",
+      "name": "CATSKILLS REED DIFFUSER",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Diffusers",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/catskills-reed-diffuser-brooklyn-candle-studio-581146_160x.jpg?v=1650491072",
+        "https://brooklyncandlestudio.com/cdn/shop/products/catskills-reed-diffuser-brooklyn-candle-studio-961779_800x.jpg?v=1659048699",
+        "https://brooklyncandlestudio.com/cdn/shop/products/catskills-reed-diffuser-brooklyn-candle-studio-309216_800x.jpg?v=1659014266"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [],
+      "totalRating": 0,
+      "status": true,
+      "bestsellers": 16
+    },
+    {
+      "id": "D3",
+      "name": "ITALIA REED DIFFUSER",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Diffusers",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/italia-reed-diffuser-brooklyn-candle-studio-396153_800x.jpg?v=1650491057",
+        "https://brooklyncandlestudio.com/cdn/shop/products/italia-reed-diffuser-brooklyn-candle-studio-967257_160x.jpg?v=1664577790",
+        "https://brooklyncandlestudio.com/cdn/shop/products/italia-reed-diffuser-brooklyn-candle-studio-669351_160x.jpg?v=1664557330"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 30
+    },
+    {
+      "id": "D4",
+      "name": "SUNDAY MORNINGDIFFUSER",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Diffusers",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/sunday-morning-reed-diffuser-brooklyn-candle-studio-428051_160x.jpg?v=1625061544",
+        "https://brooklyncandlestudio.com/cdn/shop/products/sunday-morning-reed-diffuser-brooklyn-candle-studio-138484_160x.jpg?v=1655458473",
+        "https://brooklyncandlestudio.com/cdn/shop/products/sunday-morning-reed-diffuser-brooklyn-candle-studio-711558_160x.jpg?v=1655430118"
+      ],
+      "quantity": 19,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 11
+    },
+    {
+      "id": "D5",
+      "name": "PALO SANTO DIFFUSER",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Diffusers",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-784431_160x.jpg?v=1625061526",
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-507715_160x.jpg?v=1681364812",
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-824330_160x.jpg?v=1681311836"
+      ],
+      "quantity": 17,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": "103"
+    },
+    {
+      "id": "D6",
+      "name": "MAUI REED DIFFUSER",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Diffusers",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-355229_160x.jpg?v=1650491067",
+        "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-483108_160x.jpg?v=1659048717",
+        "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-263606_160x.jpg?v=1659014324"
+      ],
+      "quantity": 16,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": "1022"
+    },
+    {
+      "id": "B1",
+      "name": "PALO SANTO BATH BAR",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Bath bars",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-detoxifying-charcoal-soap-brooklyn-bath-studio-917755_160x.jpg?v=1634856033",
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-detoxifying-charcoal-soap-brooklyn-bath-studio-313646_1000x.jpg?v=1634856029",
+        "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-detoxifying-charcoal-soap-brooklyn-bath-studio-969507_900x.jpg?v=1634856020"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 10
+    },
+    {
+      "id": "B2",
+      "name": "BERGAMOT PINK CLAY BATH BAR",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Bath bars",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/bergamot-neroli-balancing-pink-clay-soap-brooklyn-bath-studio-898576_160x.jpg?v=1617911331",
+        "https://brooklyncandlestudio.com/cdn/shop/products/bergamot-neroli-balancing-pink-clay-soap-brooklyn-bath-studio-435821_160x.jpg?v=1632940484",
+        "https://brooklyncandlestudio.com/cdn/shop/products/bergamot-neroli-balancing-pink-clay-soap-brooklyn-bath-studio-145873_160x.jpg?v=1632940484"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 10
+    },
+    {
+      "id": "B3",
+      "name": "ROSEWATER OATMEAL BATH BAR",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Bath bars",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/rosewater-cassis-soothing-oatmeal-soap-brooklyn-bath-studio-961958_160x.jpg?v=1617911448",
+        "https://brooklyncandlestudio.com/cdn/shop/products/rosewater-cassis-soothing-oatmeal-soap-brooklyn-bath-studio-833429_160x.jpg?v=1632960104",
+        "https://brooklyncandlestudio.com/cdn/shop/products/rosewater-cassis-soothing-oatmeal-soap-brooklyn-bath-studio-245137_900x.jpg?v=1632960104"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 60
+    },
+    {
+      "id": "B4",
+      "name": "BATH BAR BUNDLE",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Bath bars",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/soap-bundle-rosewater-cassis-palo-santo-bergamot-neroli-brooklyn-bath-studio-983924_1000x.jpg?v=1614880977",
+        "https://brooklyncandlestudio.com/cdn/shop/products/soap-bundle-rosewater-cassis-palo-santo-bergamot-neroli-brooklyn-bath-studio-175235_1000x.jpg?v=1614880974",
+        "https://brooklyncandlestudio.com/cdn/shop/products/soap-bundle-rosewater-cassis-palo-santo-bergamot-neroli-brooklyn-bath-studio-801286_1000x.jpg?v=1632960183"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 10
+    },
+    {
+      "id": "G1",
+      "name": "PURA SMART DIFFUSER KIT",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Gift sets",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/pura-smart-fragrance-diffuser-kit-santorini-sunday-morning-brooklyn-candle-studio-684508_1000x.jpg?v=1667417759",
+        "https://brooklyncandlestudio.com/cdn/shop/products/pura-smart-fragrance-diffuser-kit-santorini-sunday-morning-brooklyn-candle-studio-752366_1000x.jpg?v=1667417757",
+        "https://brooklyncandlestudio.com/cdn/shop/products/pura-smart-fragrance-diffuser-kit-santorini-sunday-morning-brooklyn-candle-studio-935881_1000x.jpg?v=1667419167"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 50
+    },
+    {
+      "id": "G2",
+      "name": "GARDEN CANDLE ",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Gift sets",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/garden-candle-gift-set-84-value-brooklyn-candle-studio-462291_1000x.jpg?v=1671573773",
+        "https://brooklyncandlestudio.com/cdn/shop/products/garden-candle-gift-set-84-value-brooklyn-candle-studio-242694_1000x.jpg?v=1671692585",
+        "https://brooklyncandlestudio.com/cdn/shop/products/garden-candle-gift-set-84-value-brooklyn-candle-studio-462291_1000x.jpg?v=1671573773"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 40
+    },
+    {
+      "id": "G3",
+      "name": "ALLISON KUNATH CANDLE SET",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Gift sets",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/allison-kunath-artist-edition-candle-set-mojave-embers-saffron-bloom-petrichor-brooklyn-candle-studio-429603_160x.jpg?v=1655508669",
+        "https://brooklyncandlestudio.com/cdn/shop/products/allison-kunath-artist-edition-candle-set-mojave-embers-saffron-bloom-petrichor-brooklyn-candle-studio-204636_160x.jpg?v=1653451622",
+        "https://brooklyncandlestudio.com/cdn/shop/products/allison-kunath-artist-edition-candle-set-mojave-embers-saffron-bloom-petrichor-brooklyn-candle-studio-447914_160x.jpg?v=1659048693"
+      ],
+      "quantity": 20,
+      "totalReview": 20,
+      "feedback": [
+        "comment",
+        "rating"
+      ],
+      "totalRating": 9,
+      "status": true,
+      "bestsellers": 10
+    },
+    {
+      "id": "G4",
+      "name": "MEDITATION CANDLE",
+      "price": 2300000,
+      "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+      "type": "Gift sets",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/meditation-candle-gift-set-84-value-brooklyn-candle-studio-932017_160x.jpg?v=1634575217",
+        "https://brooklyncandlestudio.com/cdn/shop/products/meditation-candle-gift-set-84-value-brooklyn-candle-studio-765630_160x.jpg?v=1638917686",
+        "https://brooklyncandlestudio.com/cdn/shop/products/meditation-candle-gift-set-84-value-brooklyn-candle-studio-932017_160x.jpg?v=1634575217"
+      ],
+      "quantity": 17,
+      "totalReview": 20,
+      "feedback": [],
+      "totalRating": 0,
+      "status": true,
+      "bestsellers": "103"
+    },
+    {
+      "id": "C4",
+      "name": "HAWAII RAIN MINIMALIST CANDLE",
+      "quantity": -16,
+      "price": 230000,
+      "description": "<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; margin-bottom: 1.6em; color: #1c1b1b; font-family: 'Monotype Baskerville', serif; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"letter-spacing: .15em; font-size: 10px;\" data-mce-fragment=\"1\">TOP NOTES:</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;</span><em style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" data-mce-fragment=\"1\">Raindrops, Lemon Peel</em><br style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" data-mce-fragment=\"1\" /><span style=\"letter-spacing: .15em; font-size: 10px;\" data-mce-fragment=\"1\">MIDDLE NOTES:&nbsp;</span><em style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" data-mce-fragment=\"1\">Bitter Orange, Coconut Water</em><br style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" data-mce-fragment=\"1\" /><span style=\"letter-spacing: .15em; font-size: 10px;\" data-mce-fragment=\"1\">BASE NOTE:</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;</span><em style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" data-mce-fragment=\"1\">White Woods, River Jasmine</em></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; outline: none; margin-bottom: 1.6em; color: #1c1b1b; font-family: 'Monotype Baskerville', serif; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important; outline: none;\" data-mce-fragment=\"1\">Imagine sheltering from the rain underneath the tree canopies in the dense Hawaiian mountains, surrounded by the most beautiful blooms and fragrant plantlife. With notes of coconut water and bitter orange, river jasmine and raindrops, that is precisely what Hawaii Rain evokes.&nbsp;</span></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; margin-bottom: 1.6em; color: #1c1b1b; font-family: 'Monotype Baskerville', serif; background-color: #ffffff; box-sizing: border-box !important;\">Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.</p>",
+      "type": "Candles",
+      "image": [
+        "https://brooklyncandlestudio.world/cdn/shop/products/WEB_HAWAII-RAIN-LIT_160x.jpg?v=1646239958",
+        "https://brooklyncandlestudio.world/cdn/shop/products/WEB_SoapLifestyle-22_1_160x.jpg?v=1646239965",
+        "https://brooklyncandlestudio.world/cdn/shop/products/WEB_HAWAII-RAIN_160x.jpg?v=1646239969"
+      ],
+      "feedback": [],
+      "totalRating": 0,
+      "totalReview": 20,
+      "status": true,
+      "bestsellers": 46
+    },
+    {
+      "id": "C6",
+      "name": "SWEET FIG MINIMALIST CANDLE",
+      "quantity": 11,
+      "price": 230000,
+      "description": "<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important; letter-spacing: 0.15em; font-size: 10px;\">TOP NOTES:</span>&nbsp;<em style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Rosewood</em><br style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" /><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important; letter-spacing: 0.15em; font-size: 10px;\">MIDDLE NOTES:&nbsp;</span><em style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Mediterranean Fig</em><br style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\" /><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important; letter-spacing: 0.15em; font-size: 10px;\">BASE NOTE:</span>&nbsp;<em style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Amber, Patchouli</em></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\">Summon your inner hippie with the earthy, ripe aroma of a freshly picked fig. This refreshing and soothing scent is perfect for burning during early morning yoga or meditation practices.</p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Our Sweet&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Fig Candles&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">are&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">hand</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">-crafted to take you on a sensory journey. The rich, succulent aroma of our&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">fig-scented candles</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;melds with gentle undertones of earth and wood, crafting soothing&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">fragrances&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">that are as complex as they are comforting.&nbsp;</span></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Whether you're searching for the perfect&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">gift</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;or looking to freshen up your own home, our team is dedicated to&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">making</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;unique scents that meet your needs. If you&rsquo;re looking for a truly one-of-a-kind experience, we&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">create</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;the&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">best fig candles</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;that will transport you to another world. Each time the wick is lit, the room fills with a soothing and&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">fruity&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">fig candle scent</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">, allowing your senses to&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">travel&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">to the sun-soaked&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">green</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;hills of the Mediterranean.</span></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Our Sweet&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Fig scented candles&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">were designed to invoke the free spirit and tranquil essence of nature, drawing inspiration from the Mediterranean fig tree groves. Our&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">custom</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;scent tells a&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">story</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">, capturing the fruity smell of fig with the grounding earthiness that connects us to our roots. Since ancient times, the fig has been associated with knowledge, growth, and harmony, often seen as a symbol of life's luxuriant richness.&nbsp;</span></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; outline: none; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Our&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Mediterranean fig candle&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">is more than just a candle &mdash; it's an experience designed to ignite your&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">body</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;and soul. Simply light one of our Sweet&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Fig candles&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">and imagine yourself on a Roman&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">holiday</span><span style=\"-webkit-font-smoothing: antialiased; outline: none; box-sizing: border-box !important;\">, enveloping your senses with top notes of rosewood, middle notes of Mediterranean fig, and base notes of amber and patchouli.&nbsp;</span></p>\n<p style=\"-webkit-font-smoothing: antialiased; margin-top: 0px; font-size: 15px; font-family: Miller-Display-Roman, Times, serif; padding-top: 10px; margin-bottom: 1.6em; color: #1c1b1b; background-color: #ffffff; box-sizing: border-box !important;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Our Sweet&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">Fig candles</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">&nbsp;are&nbsp;</span><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box !important;\">made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.</span></p>",
+      "type": "Candles",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/sweet-fig-candle-brooklyn-candle-studio-774163_160x.jpg?v=1572404001",
+        "https://brooklyncandlestudio.com/cdn/shop/products/sweet-fig-minimalist-candle-brooklyn-candle-studio-280103_160x.JPG?v=1632960212",
+        "https://brooklyncandlestudio.com/cdn/shop/products/sweet-fig-candle-brooklyn-candle-studio-610301_160x.jpg?v=1632960212"
+      ],
+      "feedback": [],
+      "totalReview": 20,
+      "totalRating": 0,
+      "status": true,
+      "bestsellers": "10333"
+    },
+    {
+      "id": "D15",
+      "name": "Hawaii Disffuser",
+      "quantity": 50,
+      "price": 2500000,
+      "description": "<p>Top Note: Rain</p>\n<p>Middle Note:&nbsp;</p>",
+      "type": "ROOM MIST",
+      "image": [
+        "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110",
+        "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110",
+        "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110"
+      ],
+      "feedback": [],
+      "totalRating": 0,
+      "status": true,
+      "totalReview": 0,
+      "bestsellers": 0
+    },
+    {
+      "id": "D29",
+      "name": "LIMITED EDITION AUGUST ZEN CANDLE",
+      "quantity": 22,
+      "price": 222222222222,
+      "description": "<p>44444444</p>",
+      "type": "CANDLE",
+      "image": [
+        "2222222",
+        "222222222",
+        "22222222222"
+      ],
+      "feedback": [],
+      "totalRating": 0,
+      "status": true,
+      "totalReview": 0,
+      "bestsellers": 0
+    }
+  ],
+  "payment": [
+    {
+      "id": 1,
+      "name": []
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORDER_78",
+      "idUser": 3,
+      "status": "Pending",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "phoneNumber": "0335378998",
+      "paymentMethod": "Code",
+      "detail": [
+        {
+          "id": "D1",
+          "name": "BROOKLYN REED DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110",
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-790684_800x.jpg?v=1664577826",
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-501748_800x.jpg?v=1664557252"
+          ],
+          "quantity": "3",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 55
+        },
+        {
+          "id": "D6",
+          "name": "MAUI REED DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-355229_160x.jpg?v=1650491067",
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-483108_160x.jpg?v=1659048717",
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-263606_160x.jpg?v=1659014324"
+          ],
+          "quantity": "2",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 10
+        }
+      ],
+      "date": "29/9/2023",
+      "totalPrice": 8895250,
+      "totalQuantity": "032",
+      "shipping": "0"
+    },
+    {
+      "id": "ORDER_93",
+      "idUser": 3,
+      "status": "Pending",
+      "address": "285 Huy Cận, Cẩm Lệ, Đà Nẵng",
+      "phoneNumber": "0335378998",
+      "paymentMethod": "Code",
+      "detail": [
+        {
+          "id": "D1",
+          "name": "BROOKLYN REED DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-450513_800x.jpg?v=1650491110",
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-790684_800x.jpg?v=1664577826",
+            "https://brooklyncandlestudio.com/cdn/shop/products/brooklyn-reed-diffuser-brooklyn-candle-studio-501748_800x.jpg?v=1664557252"
+          ],
+          "quantity": "3",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 55
+        },
+        {
+          "id": "D6",
+          "name": "MAUI REED DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-355229_160x.jpg?v=1650491067",
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-483108_160x.jpg?v=1659048717",
+            "https://brooklyncandlestudio.com/cdn/shop/products/maui-reed-diffuser-brooklyn-candle-studio-263606_160x.jpg?v=1659014324"
+          ],
+          "quantity": "2",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 10
+        },
+        {
+          "id": "D5",
+          "name": "PALO SANTO DIFFUSER",
+          "price": 2300000,
+          "description": "Our Escapist collection takes you to our favorite places in the world, places we’ve traveled to that have a permanent place in our olfactory memories. Pick three to try, gift, or savor individually. Hand-poured in screenprinted glass votives and packaged in a perfectly giftable luxurious textured box. Made in Brooklyn, New York with 100% soy wax for an eco-friendly clean burn. We use lead-free cotton wicks and premium fragrance oils infused with essential oils. Our candles are vegan, cruelty-free, phthalate-free, and petroleum-free.",
+          "type": "Diffusers",
+          "image": [
+            "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-784431_160x.jpg?v=1625061526",
+            "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-507715_160x.jpg?v=1681364812",
+            "https://brooklyncandlestudio.com/cdn/shop/products/palo-santo-reed-diffuser-brooklyn-candle-studio-824330_160x.jpg?v=1681311836"
+          ],
+          "quantity": "3",
+          "totalReview": 20,
+          "feedback": [
+            "comment",
+            "rating"
+          ],
+          "totalRating": 9,
+          "status": true,
+          "bestsellers": 10
+        }
+      ],
+      "date": "29/9/2023",
+      "totalPrice": 13425962.5,
+      "totalQuantity": "0323",
+      "shipping": "0"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 1,
+      "nameUser": "Nuong",
+      "idUser": "1",
+      "rating": 5,
+      "title": "Perfect",
+      "description": "I love this candle so much",
+      "time": "07/05/2023"
+    },
+    {
+      "id": 2,
+      "nameUser": "Nuong",
+      "idUser": "1",
+      "rating": 3,
+      "title": "Perfect",
+      "description": "I love this candle so much",
+      "time": "07/05/2023"
+    }
+  ]
+}
